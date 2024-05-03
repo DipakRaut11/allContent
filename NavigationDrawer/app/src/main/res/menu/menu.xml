@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Notes"
+        android:title="Note"
+        android:icon="@drawable/baseline_3p_24"
+        />
+    <item
+        android:id="@+id/File"
+        android:title="File"
+        android:icon="@drawable/ic_launcher_foreground"
+        />
+    <item
+        android:id="@+id/Facebook"
+        android:title="Facebook"
+        android:icon="@drawable/ic_launcher_background"
+        />
+</menu>
